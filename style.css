@@ -262,6 +262,10 @@ header .navbar a:hover{
     width:90%;
 }
 
+.about .row-2 .skills .progress:nth-child(9) .bar span{
+    width:85%;
+}
+
 .experience .box-container .box{
     position: relative;
     flex:1 1 33rem;
